@@ -2,7 +2,7 @@ applications:
 - path: .
   memory: 128M
   instances: 1
-  domain: mybluemix.net
+  domain: eu-de.mybluemix.net
   name: z2c-wilmatz-ch3
   host: Z2C
   disk_quota: 1024M
